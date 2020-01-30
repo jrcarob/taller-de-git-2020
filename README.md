@@ -1,6 +1,6 @@
 # Curso de GIT
 
-Este proyecto contiene el curso de introducción a GIT Enero 2020
+Este proyecto contiene el curso de introducción a GIT Enero 2020 (durante 3 días)
 
 Desarrollado por José Caro.
 
